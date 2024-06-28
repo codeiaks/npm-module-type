@@ -1,0 +1,27 @@
+{
+  "name": "npm-module-type",
+  "version": "1.0.0",
+  "description": "A tool to set the type to module in package.json",
+  "main": "index.js",
+  "bin": {
+    "npm-module-type": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeiaks/npm-module-type.git"
+  },
+  "keywords": [
+    "package.json",
+    "module",
+    "type"
+  ],
+  "author": "Codeiaks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeiaks/npm-module-type/issues"
+  },
+  "homepage": "https://github.com/codeiaks/npm-module-type#readme"
+}
