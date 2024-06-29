@@ -1,6 +1,6 @@
 {
   "name": "npm-module-type",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool to set the type to module in package.json",
   "main": "index.js",
   "bin": {
